@@ -1,3 +1,17 @@
+## 🚗 Car Rental Tracking System
+This project is a **Windows Forms** application designed by small car rental companies to track their rental processes.
+
+## 📌 Features
+- Adding, deleting (based on license plate), and updating rental company vehicles.
+- Creating a service record for rental company vehicles and scheduling maintenance and service dates accordingly.
+- A modern and user-friendly interface design.
+- The ability to view who rented the vehicle, on what date, at what time, which vehicle, and the renter's phone number in a table format.
+
+## ⚙️ Technologies Used
+- C# (.NET Framework)
+- PostgreSQL 
+- Windows Forms
+
 ## 🚗  Araç Kiralama Takip Sistemi
 
 Bu proje küçük çapta araç kiralama şirketleri tarafından, kiralama süreçlerini takip edebilmek amacıyla tasarlanmış bir ** Windows Forms ** uygulamasıdır.
@@ -13,7 +27,7 @@ Bu proje küçük çapta araç kiralama şirketleri tarafından, kiralama süre�
 - PostgreSQL 
 - Windows Forms
 
-## 📸 Ekran Görüntüleri
+## 📸 Screenshots - Ekran Görüntüleri
 - Ana Ekran Görüntüsü: ![Image](https://github.com/user-attachments/assets/953594ee-d6e4-4852-b7a8-913e67ae344b)
 - Kiralama Takip Sayfası: ![image](https://github.com/user-attachments/assets/58929ba7-59c0-4523-9a27-7d53c11a9794)
 
