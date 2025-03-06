@@ -12,6 +12,8 @@ This project is a **Windows Forms** application designed by small car rental com
 - PostgreSQL 
 - Windows Forms
 
+-----------------------------------------------
+
 ## 🚗  Araç Kiralama Takip Sistemi
 
 Bu proje küçük çapta araç kiralama şirketleri tarafından, kiralama süreçlerini takip edebilmek amacıyla tasarlanmış bir ** Windows Forms ** uygulamasıdır.
