@@ -14,3 +14,6 @@ Bu proje küçük çapta araç kiralama şirketleri tarafından, kiralama süre�
 - Windows Forms
 
 ## 📸 Ekran Görüntüleri
+- Ana Ekran Görüntüsü: ![Image](https://github.com/user-attachments/assets/953594ee-d6e4-4852-b7a8-913e67ae344b)
+- Kiralama Takip Sayfası: ![image](https://github.com/user-attachments/assets/58929ba7-59c0-4523-9a27-7d53c11a9794)
+
