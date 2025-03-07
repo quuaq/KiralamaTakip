@@ -34,7 +34,10 @@ Bu proje küçük çapta araç kiralama şirketleri tarafından, kiralama süre�
 - Kiralama Takip Sayfası: ![image](https://github.com/user-attachments/assets/58929ba7-59c0-4523-9a27-7d53c11a9794)
 
 ## Licence 
-This project is licensed under the **BSD 3-Clause License**. For more information, see the [LICENSE] file
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
+The code is free to use, modify, and distribute.  
+However, anyone who modifies or distributes this code **must share the source code openly** and **cannot sell it**.  
+For more details, check the [LICENSE](LICENSE) file.
 ## Contact - İletişim
 - Samet Barış Öncül
 - LinkedIn : https://www.linkedin.com/in/samet-bar%C4%B1%C5%9F-%C3%B6nc%C3%BCl-5186ba270/
