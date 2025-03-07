@@ -36,7 +36,7 @@ Bu proje küçük çapta araç kiralama şirketleri tarafından, kiralama süre�
 ## Licence 
 This project is licensed under the **BSD 3-Clause License**. For more information, see the [LICENSE] file
 ## Contact - İletişim
--Samet Barış Öncül
--LinkedIn : https://www.linkedin.com/in/samet-bar%C4%B1%C5%9F-%C3%B6nc%C3%BCl-5186ba270/
--E-Mail: sbarisoncul35@gmail.com
+- Samet Barış Öncül
+- LinkedIn : https://www.linkedin.com/in/samet-bar%C4%B1%C5%9F-%C3%B6nc%C3%BCl-5186ba270/
+- E-Mail: sbarisoncul35@gmail.com
 
